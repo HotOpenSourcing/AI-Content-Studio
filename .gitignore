@@ -26,7 +26,6 @@ config.json
 client_secrets.json
 token.pickle
 *.env
-.env
 
 # ====================
 # Generated Content Folders
@@ -90,7 +89,6 @@ web/build/
 # ====================
 # IDE / OS
 # ====================
-.vscode/
 .idea/
 *.DS_Store
 Thumbs.db
@@ -115,3 +113,5 @@ recover_tsx.py
 test_clipper.py
 package-lock.json
 login_videofx.py
+config.bat
+node_modules
